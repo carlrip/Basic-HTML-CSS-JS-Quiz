@@ -1,6 +1,6 @@
 # Basic HTML Test
 
-📄 The following questions should take you no longer than 30 minutes to answer.  
+The following questions should take you no longer than 30 minutes to answer.  
 
 1. What is wrong with the following HTML?
 ```
@@ -53,7 +53,8 @@ https://images.unsplash.com/photo-1562186347-b7243d117904?ixlib=rb-1.2.1&ixid=ey
 <input type="text" />
 ```
    
-   
-🏆 Send your answers to Carl to get your score and feedback. 
+🏆🏆🏆   
+
+Send your answers to Carl to get your score and feedback. 
 
 
