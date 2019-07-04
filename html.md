@@ -1,4 +1,4 @@
-# Basic HTML Test
+# Basic HTML Quiz
 
 The following questions should take you no longer than 30 minutes to answer.  
 
@@ -41,7 +41,7 @@ https://images.unsplash.com/photo-1562186347-b7243d117904?ixlib=rb-1.2.1&ixid=ey
 ```
 6. What HTML tag should table column headings be placed in?
 
-7. What is the HTML markup that would render a checkbox with label "*Do you like HTML?*"
+7. What attribute sets a checkbox to be ticked in an `input` tag?
 
 8. What is the HTML markup that would render a number input. The input needs to include buttons to increment and decrement the value by 1 where the minimum value is 1 and maximum value is 10. 
 
