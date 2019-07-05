@@ -1,6 +1,6 @@
 # Basic HTML Quiz
 
-The following questions should take you no longer than 30 minutes to answer.  
+The following questions should take you no longer than 1 hour to answer.  
 
 1. What is wrong with the following HTML?
 ```

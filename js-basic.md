@@ -1,6 +1,6 @@
 # Basic JavaScript Quiz
 
-The following questions should take you no longer than 1 hour to answer.  
+The following questions should take you no longer than 2 hours to answer.  
 
 1. What are the primative types in JavaScript?
 

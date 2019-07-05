@@ -1,6 +1,6 @@
 # Basic CSS Quiz
 
-The following questions should take you no longer than 30 minutes to answer.  
+The following questions should take you no longer than 1 hour to answer.  
 
 1. What CSS selector would target all `label` tags with a `form-label` CSS class name? 
 
