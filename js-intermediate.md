@@ -2,7 +2,7 @@
 
 The following questions should take you no longer than 3 hours to answer.  
 
-1. Is it possible to nest `try` `catch` blocks inside one anoher? i.e. is the following okay?
+1. Is it possible to nest `try` `catch` blocks inside one another? i.e. is the following okay?
 ```
 try {
   ...
